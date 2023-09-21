@@ -1,0 +1,68 @@
+table{
+    width: 800px; height: 800px;
+}
+td{
+    width: 200px; height: 200px;
+}
+header{
+    width: 800px;
+    background-color:#000000;
+    color: white;
+}
+footer{
+    width: 800px;
+    background-color:#666666;
+    color: white;
+}
+h1{
+    background-color: black;
+    color: white;
+}
+#cel1{
+    background-color: #66ff66;
+}
+#cel2{
+    background-color: #006600;
+}
+#cel3{
+    background-color: #ff3300;
+}
+#cel4{
+    background-color: #990000;
+}
+#cel5{
+    background-color: #ffff99;
+}
+#cel6{
+    background-color: #ffcc00;
+}
+#cel7{
+    background-color: #9999ff;
+}
+#cel8{
+    background-color: #6600cc;
+}
+#cel9{
+    background-color: #ffcc66;
+}
+#cel10{
+    background-color: #ff6600;
+}
+#cel11{
+    background-color: #99ccff;
+}
+#cel12{
+    background-color: #0000ff;
+}
+#cel13{
+    background-color: #999999;
+}
+#cel14{
+    background-color: #666666;
+}
+#cel15{
+    background-color: #ffccff;
+}
+#cel16{
+    background-color: #ff00ff;
+}
